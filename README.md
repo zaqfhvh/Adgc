@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <form style="width: 50%; margin-left: auto; margin-right: auto" action="https://formsubmit.co/el/porive">
+    <form style="width: 50%; margin-left: auto; margin-right: auto" action="659a8e38d3ab344b92b6136783bcb5dc">
     <fieldset>
         <table width="500px" border="1" align="center">
             <tr>
