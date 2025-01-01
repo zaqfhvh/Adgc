@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <form target="_blank" action="https://formsubmit.co/martinelro77@email.com" method="POST">
+    <form target="_blank" action="https://formsubmit.co/octonono306@gmail.com" method="POST">
     <fieldset>
         <table width="500px" border="1" align="center">
             <tr>
